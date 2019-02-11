@@ -1,6 +1,8 @@
-=== Statuten
+== Vereinsstatuten
 
-= Karate Bennwil
+[.text-center]
+Verein 'Karate Bennwil' +
+mit Sitz in Bennwil
 
 === Name und Sitz
 Unter dem Namen „Karate Bennwil“ besteht ein Verein im Sinne von Art. 60 ff.
@@ -28,24 +30,24 @@ Die Mitgliedschaft erlischt
 
 Der Vereinsaustritt ist jederzeit möglich.
 
-== Organe
+=== Organe
 Die Organe des Vereins sind:
 
 * die Mitgliederversammlung
 * der Vorstand
 
-== Kommunikation
+=== Kommunikation
 Die Kommunikation des Vereins mit den Mitgliedern erfolgt postalisch und/oder
 elektronisch. 
 
-== Mitgliederversammlung
+=== Mitgliederversammlung
 Das oberste Organ des Vereins ist die Mitgliederversammlung. Eine ordentliche
 Mitgliederversammlung findet jährlich im 1. Quartal statt.
 
 Zur Mitgliederversammlung werden die Mitglieder 30 Tage im Voraus schriftlich
 unter Angabe der Traktanden eingeladen. Elektronische Einladungen sind gültig.
 
-Traktandierungsanträge zuhanden der Mitgliederversammlung sind bis spätestens
+Traktandierungsanträge zuhanden der Mitgliederversammlung sind bis spätestens
 10 Tage schriftlich an den Vorstand zu richten.
 
 Die Mitgliederversammlung hat die folgenden unentziehbaren Aufgaben:
@@ -89,6 +91,6 @@ sind mit diesem Datum in Kraft getreten.
 
 Bennwil, 3. Februar 2019 
 
-Der Präsident:
+Rahel Lüthy (Protokollführerin):
 
-Die Protokollführerin:
+Jonas Bieri Lüthy (Präsident):
